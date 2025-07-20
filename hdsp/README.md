@@ -42,8 +42,11 @@ The app collects 13 clinical features including:
 - Major vessel count
 - ...
 
+
+
 📱 App Pages
 The mobile app includes several screens to guide users and improve the user experience:
+
 
 🔍 How It Works
 This page explains how the heart disease prediction system functions:
@@ -56,6 +59,7 @@ The model then analyzes the data and predicts the likelihood of heart disease.
 
 It also gives clear instructions on what kind of information the user needs to enter for accurate results.
 
+
 🧪 Predictions
 In this section, users input their personal health data into the form fields.
 
@@ -64,6 +68,7 @@ Once submitted, the app runs the data through the TensorFlow Lite model.
 The result is displayed instantly, indicating either a low risk or high risk of heart disease.
 
 Visual indicators or messages are used to make the output easy to understand.
+
 
 ❤️ About Heart Disease
 This educational section covers:
@@ -77,6 +82,7 @@ Preventive tips
 The importance of regular check-ups
 
 It aims to raise awareness and encourage healthy lifestyle choices.
+
 
 ℹ️ About This App
 This screen provides details about:
